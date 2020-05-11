@@ -27,7 +27,6 @@ In SCSS:
 Or just copy CSS from `node_modules/checkbox-light-switch/dist/index.css` to your own code.
 
 
-
 ```html
 <div>
     <input class="light-switch" type="checkbox" id="some_checkbox" />
