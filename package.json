@@ -1,7 +1,7 @@
 {
-    "name": "light-switch",
+    "name": "checkbox-light-switch",
     "title": "Light switch pure CSS",
-    "description": "Decoration for standart html input checkbox by pure CSS without any JS.",
+    "description": "Decorating a standard HTML checkbox with pure CSS without JS",
     "version": "1.0.0",
     "author": {
         "name": "Evgenii Finkelstein",
